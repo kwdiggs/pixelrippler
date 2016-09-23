@@ -11,7 +11,7 @@ It's features include:
 </ul>
 
 <h2>Screenshots</h2>
-<img src="matrix.png" alt="falling lines animation" height="400px" width="300px" />
+<img src="matrix.png" alt="falling lines animation" height="550px" width="300px" />
 <img src="binclock.png" alt="binary clock" />
 <img src="isola.png" alt="isola two player strategy game" />
 
