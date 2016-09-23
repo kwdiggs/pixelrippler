@@ -6,7 +6,7 @@ PixelRippler is a sandbox/puzzle game for the Android platform.
 <h2>It's features include:</h2>
 <ul>
 <li>Rippling sandbox</li>
-<li>Multiple color palettes /li>
+<li>Multiple color palettes</li>
 <li>Easter egg animations including a binary clock</li>
 <li>Hidden 2 player strategy game</li>
 </ul>
