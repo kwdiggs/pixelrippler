@@ -1,9 +1,18 @@
-# pixelrippler
-PixelRippler is a sandbox/puzzle game for the Android platform. 
+<h1>PixelRippler</h1>
+<p>
+PixelRippler is a sandbox/puzzle game for the Android platform.
+<p> 
+<ul>
 It's features include:
--Rippling sandbox
--Multiple color palettes 
--Easter egg animations including a binary clock
--Hidden 2 player strategy game
+<li>Rippling sandbox</li>
+<li>Multiple color palettes /li>
+<li>Easter egg animations including a binary clock</li>
+<li>Hidden 2 player strategy game</li>
+</ul>
+
+<h2>Screenshots</h2>
+<img src="matrix.png" alt="falling lines animation" />
+<img src="binclock.png" alt="binary clock" />
+<img src="isola.png" alt="isola two player strategy game" />
 
 
