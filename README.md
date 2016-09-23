@@ -15,5 +15,6 @@ PixelRippler is a sandbox/puzzle game for the Android platform.
 <img src="matrix.png" alt="falling lines animation" height="525px" width="300px" />
 <img src="binclock.png" alt="binary clock" height="525px" width="300px" />
 <img src="isola.png" alt="isola two player strategy game" height="525px" width="300px" />
+<img src="ripple.png" alt="rippling pixel wave" height="525px" width="300px" />
 
 
