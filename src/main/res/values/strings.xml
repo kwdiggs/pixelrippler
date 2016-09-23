@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="rippler">Rippler!</string>
+    <string name="pyrotechnician">Pyrotechnician!</string>
+    <string name="explorer">Explorer!</string>
+    <string name="chosen_one">The Chosen One!</string>
+    <string name="destroyer_of_worlds">Destroyer of Worlds!</string>
+    <string name="master_of_time">Master of Time!</string>
+    <string name="gladiator">Gladiator!</string>
+    <string name="victor">Victor!</string>
+    <string name="you_win">You win.</string>
+    <string name="you_lose">You lose.</string>
+</resources>
